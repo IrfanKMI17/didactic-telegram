@@ -5,8 +5,9 @@ int b=13;
 int c=12;
 void fun()
 {
-  
+  print "hello";
 }
+ 
 }
 class c
 {
