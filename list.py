@@ -6,3 +6,6 @@ void fun()
 {
 }
 }
+class c
+{
+}
